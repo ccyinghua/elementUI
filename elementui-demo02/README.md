@@ -53,7 +53,7 @@ cnpm install axios -D   //axios下载
 ### elementUI按需求引入用法  
 [http://element-cn.eleme.io/#/zh-CN/component/quickstart](http://element-cn.eleme.io/#/zh-CN/component/quickstart)
 
-```
+```javascript
 1.安装 element-ui
     npm install element-ui --save-dev
 
