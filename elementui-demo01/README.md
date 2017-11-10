@@ -54,7 +54,7 @@ cnpm i install less less-loader -D   //下载less,less-loader
 ### elementUI用法  
 [http://element-cn.eleme.io/#/zh-CN/component/installation](http://element-cn.eleme.io/#/zh-CN/component/installation)
 
-```
+```javascript
 1.安装 element-ui
     npm install element-ui --save-dev
 
